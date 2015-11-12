@@ -10,6 +10,8 @@ Fill in the missing areas of the code to make it work properly
 - Display the item instantaneously
 - Clear all items from the list
 - Validate the form using Angular
+- Use ngCloak to hide the angular mustaches {{}} on page load
+- Allow duplicates in your list
 
 ## BONUS
 
