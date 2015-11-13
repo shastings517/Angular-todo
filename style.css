@@ -1,0 +1,11 @@
+button.deleteBtn{
+  display: inline;
+}
+
+ul{
+  list-style-type: none;
+}
+
+[ng\:cloak], [ng-cloak], .ng-cloak {
+  display: none !important;
+}
